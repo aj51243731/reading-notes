@@ -6,3 +6,5 @@ To keep oneself in a **growth mindset** one must remember to:
 - embrace challenges
 - learn from criticism
 - find inspiration from the success of others
+
+[My Profile](https://github.com/aj51243731)
