@@ -10,4 +10,4 @@ To keep oneself in a **growth mindset** one must remember to:
 - learn from criticism
 - find inspiration from the success of others
 
-[Click here](https://github.com/aj51243731) to visit my GitHub profile.
+**[Click here](https://github.com/aj51243731)** to visit my GitHub profile.
